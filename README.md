@@ -89,5 +89,4 @@ If our paper or codebase is useful in your research, please cite our paper!
   pages={1--12},
   year={2025}
 }
-
 ```
