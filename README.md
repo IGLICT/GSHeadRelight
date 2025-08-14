@@ -26,8 +26,8 @@ imageio_download_bin freeimage
 ```
 
 ## Pretrained checkpoint
-Pretrained checkpoint is available in Google Drive link (https://drive.google.com/file/d/1ZCLThyUj73Je-Set6yHc7L_-IbindzJm).
-Please download it and put it in models/network-snapshot.pkl.
+Pretrained checkpoint is available in Google Drive link (https://drive.google.com/file/d/1ZCLThyUj73Je-Set6yHc7L_-IbindzJm).\
+Please download it and put it in ``models/network-snapshot.pkl``.
 
 
 ## Data preprocessing
@@ -54,16 +54,13 @@ python calc_metrics.py --metrics=fid50k_full --network=${network_pkl}
 
 
 ## Generating media
-We provide three scripts for generating videos. \
-The first one is for generating videos of renderings with spherical harmonics lighting. 
+We provide three scripts for generating videos with different settings.
 ```
 sh _script/generate_videos_sh.sh     # generate videos with environment map
 ```
-The second one is for generating videos of renderings with environment map. 
 ```
 sh _script/generate_videos_envmap.sh     # generate videos with environment map
 ```
-The third one is for generating videos of albedo.
 ```
 sh _script/generate_videos_albedo.sh     # generate videos of albedo
 ```
