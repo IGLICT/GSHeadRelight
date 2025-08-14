@@ -3,8 +3,9 @@
 <a href="http://www.geometrylearning.com/GSHeadRelight" target="_blank">[Project page]</a>
 <a href="https://dl.acm.org/doi/10.1145/3721238.3730614" target="_blank">[Paper]</a>
 
-Official pytorch implementation for "GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis"
-For jittor implementation please see (https://github.com/IGLICT/GSHeadRelight_jittor)
+Official pytorch implementation for "GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis".
+
+For jittor implementation please see (https://github.com/IGLICT/GSHeadRelight_jittor).
 ![Samples FFHQ-512 and AFHQ-512](asset/images/teaser.png)
 
 ### Update logs
