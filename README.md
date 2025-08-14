@@ -6,6 +6,7 @@
 Official pytorch implementation for "GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis".
 
 For jittor implementation please see (https://github.com/IGLICT/GSHeadRelight_jittor).
+
 ![Samples FFHQ-512 and AFHQ-512](asset/images/teaser.png)
 
 ### Update logs
@@ -72,10 +73,10 @@ Set the path of "network_pkl" in "_scripts/generate_videos_*.sh" file properly.
 
 ## Acknowledgement
 Our code is based on the following repositories. \
-GSGAN (https://github.com/hse1032/GSGAN)
+GSGAN (https://github.com/hse1032/GSGAN) \
 EG3D (https://github.com/NVlabs/eg3d) \
 Gaussian-Splatting (https://github.com/graphdeco-inria/gaussian-splatting) \
-dreamgaussian (https://github.com/dreamgaussian/dreamgaussian) \
+dreamgaussian (https://github.com/dreamgaussian/dreamgaussian)
 
 ## Contact
 For any further questions, please contact lvhenglei22s@ict.ac.cn
