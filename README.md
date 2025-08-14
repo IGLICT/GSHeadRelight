@@ -5,7 +5,7 @@
 
 Official pytorch implementation for "GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis"
 For jittor implementation please see (https://github.com/IGLICT/GSHeadRelight_jittor)
-![Samples FFHQ-512 and AFHQ-512](assets/images/teaser.png)
+![Samples FFHQ-512 and AFHQ-512](asset/images/teaser.png)
 
 ### Update logs
 - (25/08/14) Release inference/training code and pretrained checkpoint (https://drive.google.com/file/d/1ZCLThyUj73Je-Set6yHc7L_-IbindzJm).
