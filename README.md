@@ -26,7 +26,7 @@ imageio_download_bin freeimage
 ```
 
 ## Pretrained checkpoint
-Pretrained checkpoint is available in Google Drive link (https://drive.google.com/file/d/1ZCLThyUj73Je-Set6yHc7L_-IbindzJm).\
+Pretrained checkpoint is available in Google Drive link (https://drive.google.com/file/d/1ZCLThyUj73Je-Set6yHc7L_-IbindzJm).
 Please download it and put it in ``models/network-snapshot.pkl``.
 
 
